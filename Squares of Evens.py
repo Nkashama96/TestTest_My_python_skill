@@ -1,3 +1,16 @@
+'''
+Squares of Evens
+
+Write a function squares_of_evens(numbers) that returns a list of the squares of all even numbers from the input list.
+
+Function Requirements
+
+    The function should take a list of integers as input.
+
+    Return a list containing the squares of all even numbers from the input list.
+
+    Use a list comprehension for the solution.
+'''
 def squares_of_evens(numbers):
     square_of_even = []
     # TODO: Return a list of squares of even numbers from the input list
